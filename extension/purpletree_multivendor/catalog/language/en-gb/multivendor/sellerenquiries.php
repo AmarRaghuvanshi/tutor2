@@ -1,5 +1,5 @@
 <?php
-$_['text_store']         	 = 'Seller Enquiries';
+$_['text_store']         	 = 'Tutor Enquiries';
 $_['entry_message']      	 = 'Message';
 $_['button_save']			 = 'Send';
 $_['error_enquiry']          = 'Message must be greater than zero';

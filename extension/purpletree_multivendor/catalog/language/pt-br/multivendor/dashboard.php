@@ -42,7 +42,7 @@ $_['text_address']        	=	"Modifique as entradas do catálogo de endereços";
 $_['text_credit_card']    	=	"Gerencie cartões de crédito armazenados";
 $_['text_wishlist']       	=	"Modifique sua lista de desejos";
 //$_['text_order']          	=	"Veja seu histórico de pedidos";
-$_['text_download']       	=	"Downloads";
+$_['text_download']       	=	"Materials";
 $_['text_reward']         	=	"Seus pontos de recompensa";
 $_['text_return']         	=	"Veja seus pedidos de retorno";
 $_['text_transaction']    	=	"Suas Transações";
@@ -56,7 +56,7 @@ $_['purpletree_multivendor_commission_status_warning']			 = "Waarschuwing: berek
 
 //Dashboard icons
 $_['text_Seller_Account'] = 'Conta do vendedor';
-$_['text_Manage_Downloads'] = 'Gerenciar Downloads';
+$_['text_Manage_Downloads'] = 'Gerenciar Materials';
 $_['text_reviews'] = 'Meus comentários';
 $_['text_Customer_Enquiries'] = 'Consultas ao Cliente';
 $_['text_Manage_products'] = 'Gerenciar Produtos';

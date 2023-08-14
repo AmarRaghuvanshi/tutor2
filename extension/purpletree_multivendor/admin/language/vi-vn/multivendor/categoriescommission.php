@@ -17,7 +17,7 @@ $_['column_action']    = 'Hành động';
 $_['column_categories']          = 'thể loại';
 $_['column_commission']          = 'Uỷ ban (%)';
 $_['column_commission_fixed']          = 'Ủy ban cố định';
-$_['column_seller_group']          = 'Seller GroupNhóm người bán';
+$_['column_seller_group']          = 'Tutor GroupNhóm người bán';
 
 // Entry
 $_['entry_commission_fixed']      = 'Ủy ban cố định';

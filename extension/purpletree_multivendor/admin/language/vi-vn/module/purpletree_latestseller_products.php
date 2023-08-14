@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Multivendor Sellers Sản phẩm mới nhất ';
+$_['heading_title']    = 'Multivendor Tutors Sản phẩm mới nhất ';
 
 // Text
 $_['text_extension']   = 'Tiện ích mở rộng';

@@ -1,12 +1,12 @@
 <?php
 // Text
 $_['text_error'] = 'Blog Post Page Not Found!';
-$_['text_blog_heading'] = 'Seller Blogs';
+$_['text_blog_heading'] = 'Tutor Blogs';
 $_['text_comment_heading'] = 'Comments';
 $_['text_comment_empty'] = 'No comments';
 $_['text_comment_reply'] = 'Leave a reply';
 $_['text_comment_add'] = 'Comment successfully submitted and pending for admin approval.';
-$_['text_category'] = 'Categories';
+$_['text_category'] = 'Levels';
 $_['text_popupar_posts'] = 'Popular Posts';
 $_['text_popupar_tags'] = 'Popular Tags';
 $_['text_readmore'] = 'Read More';

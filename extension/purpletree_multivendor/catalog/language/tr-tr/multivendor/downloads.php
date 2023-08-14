@@ -21,11 +21,11 @@ $_['entry_mask']        = 'Maske';
 $_['button_save']        = 'Kaydet';
 
 // Help
-/* $_['help_filename']     = 'You can upload via the upload button or use FTP to upload to the download directory and enter the details below.'; */
+/* $_['help_filename']     = 'You can upload via the upload button or use FTP to upload to the Material directory and enter the details below.'; */
 $_['help_mask']         = 'Dosyaların ve maskenin, indirmelerinize doğrudan bağlantı kurmaya çalışan kişileri durdurmak için farklı olması önerilir.';
 
 // Error
-/* $_['error_permission']  = 'Warning: You do not have permission to modify downloads!'; */
+/* $_['error_permission']  = 'Warning: You do not have permission to modify Materials!'; */
 $_['error_name']        = 'İndirme Adı 3 ile 64 karakter arasında olmalıdır!';
 $_['error_upload']      = 'Yükleme gerekli!';
 $_['error_filename']    = 'Dosya adı 3 ile 128 karakter arasında olmalıdır!';

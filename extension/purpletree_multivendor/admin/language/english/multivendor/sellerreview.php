@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']         = 'Seller Review';
+$_['heading_title']         = 'Tutor Review';
 
 //text
 $_['text_heading'] = 'Write a review';
 $_['text_dashboard']		= 'Dashboard';
-$_['text_storereview']		= 'Seller Review';
+$_['text_storereview']		= 'Tutor Review';
 $_['text_title']		= 'Title';
 $_['text_description']		= 'Description';
 $_['text_rating']		= 'Rating';
@@ -20,7 +20,7 @@ $_['text_store_name']          = 'Store name';
 $_['text_status']          = 'Status';
 $_['text_date_added']          = 'Date Added';
 $_['text_confirm']          = 'Are you sure?';
-$_['text_seller_name']          = 'Seller Name';
+$_['text_seller_name']          = 'Tutor Name';
 $_['text_all']                   = 'All';
 $_['column_action']          = 'Action';
 $_['text_edit']          = 'Edit';

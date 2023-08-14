@@ -10,7 +10,7 @@ $_['text_list']                 = 'Shipping Rates';
 $_['text_add']                  = 'Add Shipping';
 
 // Column
-$_['column_name']               = 'Seller Name';
+$_['column_name']               = 'Tutor Name';
 $_['column_shipping_country']    = 'Shipping Country';
 $_['column_zip_from']             = 'Zip From';
 $_['column_zip_to']             = 'Zip To';
@@ -23,7 +23,7 @@ $_['column_max_days']             = 'Maximum Day';
 $_['button_upload']             = 'Bulk Upload';
 
 // Entry
-$_['entry_seller_name']           = 'Seller Name';
+$_['entry_seller_name']           = 'Tutor Name';
 $_['entry_lastname']            = 'Last Name';
 $_['entry_shipping_country']    = 'Shipping Country';
 $_['entry_zip_from']            = 'Zip From';
@@ -36,7 +36,7 @@ $_['entry_max_days']           = 'Maximum Day';
 
 // Error
 $_['error_warning']             = 'Warning: Please check the form carefully for errors!';
-$_['error_filter_name']         = 'Please select a Seller Name!';
+$_['error_filter_name']         = 'Please select a Tutor Name!';
 $_['error_weight']              = 'Weight required!';
 $_['error_shipping_price']       = 'Price required!';
 $_['error_zipcode']             = 'Zip code required!';

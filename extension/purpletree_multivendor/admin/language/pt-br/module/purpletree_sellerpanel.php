@@ -1,7 +1,7 @@
 <?php 		
 $_['heading_title']   	=	"Painel do vendedor Multivendor";
 
-$_['text_edit']        	=	"Edit Multivendor Seller Panel Module";
+$_['text_edit']        	=	"Edit Multivendor Tutor Panel Module";
 
 $_['text_extension']   	=	"Extensões";
 $_['text_success']     	=	"Sucesso: você modificou o módulo da conta!";

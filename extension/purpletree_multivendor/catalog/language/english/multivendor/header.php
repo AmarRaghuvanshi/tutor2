@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_profile']       = 'Seller Profile';
+$_['text_profile']       = 'Tutor Profile';
 $_['text_store']         = 'Store';
-$_['text_homepage']      = 'Seller Homepage';
+$_['text_homepage']      = 'Tutor Homepage';
 $_['text_navigation']    = 'Navigation';

@@ -12,7 +12,7 @@ $_['text_file_size_info']        = 'Maximum file size allowed for upload: ';
 $_['text_success']              = 'Success: Your products has been upload successfully!';
 $_['text_confirm']             = 'Are you sure?';
 $_['text_seconds']             = ' seconds';
-$_['entry_select_seller']             = 'Select Seller';
+$_['entry_select_seller']             = 'Select Tutor';
 
 // button
 $_['button_upload']    = 'Upload';

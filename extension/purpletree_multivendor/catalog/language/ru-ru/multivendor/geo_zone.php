@@ -15,7 +15,7 @@ $_['column_name']        = 'Geo Zone Name';
 $_['column_description'] = 'Description';
 $_['column_price'] 		 = 'Price';
 $_['column_action']      = 'Action';
-$_['column_seller']      = 'Seller Name';
+$_['column_seller']      = 'Tutor Name';
 
 // Entry
 $_['entry_name']         = 'Geo Zone Name';
@@ -23,7 +23,7 @@ $_['entry_description']  = 'Description';
 $_['entry_price']  = 'Price';
 $_['entry_country']      = 'Country';
 $_['entry_zone']         = 'Zone';
-$_['seller_name']         = 'Seller Store Name';
+$_['seller_name']         = 'Tutor Store Name';
 
 // Error
 $_['error_permission']   = 'Warning: You do not have permission to modify geo zones!';

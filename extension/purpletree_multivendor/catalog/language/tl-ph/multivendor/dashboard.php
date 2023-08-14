@@ -42,7 +42,7 @@ $_['text_address']        	=	"Baguhin ang iyong mga entry sa address book";
 $_['text_credit_card']    	=	"Pamahalaan ang Naka-imbak na Credit Card";
 $_['text_wishlist']       	=	"Baguhin ang iyong listahan ng hiling";
 //$_['text_order']          	=	"Tingnan ang kasaysayan ng iyong order";
-$_['text_download']       	=	"Mga Pag-download";
+$_['text_download']       	=	"Mga Pag-Material";
 $_['text_reward']         	=	"Ang iyong Mga Gantimpala Mga Punto";
 $_['text_return']         	=	"Tingnan ang iyong mga kahilingan sa pagbalik";
 $_['text_transaction']    	=	"Ang iyong mga Transaksyon";
@@ -56,7 +56,7 @@ $_['module_purpletree_multivendor_commission_status_warning']			 = "Babala: Maaa
 
 //Dashboard icons
 $_['text_Seller_Account'] = 'Mga Bayad sa Pagpapadala';
-$_['text_Manage_Downloads'] = 'Pamahalaan ang Mga Pag-download';
+$_['text_Manage_Downloads'] = 'Pamahalaan ang Mga Pag-Material';
 $_['text_reviews'] = 'Aking mga review';
 $_['text_Customer_Enquiries'] = 'Mga Katanungan ng Customer';
 $_['text_Manage_products'] = 'Pamahalaan ang Mga Produkto';

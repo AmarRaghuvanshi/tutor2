@@ -1,10 +1,10 @@
 <?php 
-$_['heading_title']   = 'Définition du blog de Plusieurs fournisseurs Seller';
+$_['heading_title']   = 'Définition du blog de Plusieurs fournisseurs Tutor';
 
 // Text
 $_['text_extension']   = 'Les extensions';
 $_['text_success']     = 'Réussite: Vous avez modifié le module de paramétrage de blog Plusieurs fournisseurs!';
-$_['text_edit']        = 'Modifier le module de paramétrage du blog de Plusieurs fournisseurs Seller';
+$_['text_edit']        = 'Modifier le module de paramétrage du blog de Plusieurs fournisseurs Tutor';
 
 // Entry
 $_['entry_name']       = 'Nom du module';

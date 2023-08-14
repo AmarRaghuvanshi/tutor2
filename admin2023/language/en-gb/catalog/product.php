@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']           = 'Products';
+$_['heading_title']           = 'Courses';
 
 // Text
-$_['text_success']            = 'Success: You have modified products!';
-$_['text_variant']            = 'Please note because this is a variant product you must override the <a href="%s" target="_blank" class="alert-link">master product</a> data. Otherwise the data will get replaced with the <a href="%s" target="_blank" class="alert-link">master product</a> data when saved.';
-$_['text_list']               = 'Product List';
-$_['text_add']                = 'Add Product';
-$_['text_edit']               = 'Edit Product';
+$_['text_success']            = 'Success: You have modified courses!';
+$_['text_variant']            = 'Please note because this is a variant course you must override the <a href="%s" target="_blank" class="alert-link">master course</a> data. Otherwise the data will get replaced with the <a href="%s" target="_blank" class="alert-link">master course</a> data when saved.';
+$_['text_list']               = 'Course List';
+$_['text_add']                = 'Add Course';
+$_['text_edit']               = 'Edit Course';
 $_['text_variant_add']        = 'Add Variant';
 $_['text_model']              = 'Model';
 $_['text_price']              = 'Price';
@@ -35,7 +35,7 @@ $_['text_points']             = 'Reward Points';
 $_['text_report']             = 'Reports';
 
 // Column
-$_['column_name']             = 'Product Name';
+$_['column_name']             = 'Course Name';
 $_['column_model']            = 'Model';
 $_['column_image']            = 'Image';
 $_['column_price']            = 'Price';
@@ -48,7 +48,7 @@ $_['column_date_added']       = 'Date Added';
 $_['column_action']           = 'Action';
 
 // Entry
-$_['entry_name']              = 'Product Name';
+$_['entry_name']              = 'Course Name';
 $_['entry_description']       = 'Description';
 $_['entry_meta_title']        = 'Meta Tag Title';
 $_['entry_meta_keyword']      = 'Meta Tag Keywords';
@@ -94,11 +94,11 @@ $_['entry_text']              = 'Text';
 $_['entry_required']          = 'Required';
 $_['entry_status']            = 'Status';
 $_['entry_sort_order']        = 'Sort Order';
-$_['entry_category']          = 'Categories';
+$_['entry_category']          = 'Levels';
 $_['entry_filter']            = 'Filters';
-$_['entry_download']          = 'Downloads';
-$_['entry_related']           = 'Related Products';
-$_['entry_tag']               = 'Product Tags';
+$_['entry_download']          = 'Materials';
+$_['entry_related']           = 'Related Courses';
+$_['entry_tag']               = 'Course Tags';
 $_['entry_reward']            = 'Reward Points';
 $_['entry_layout']            = 'Layout Override';
 $_['entry_subscription']      = 'Subscription Plan';
@@ -106,27 +106,27 @@ $_['entry_subscription']      = 'Subscription Plan';
 // Help
 $_['help_tag']                = 'Comma separated';
 $_['help_sku']                = 'Stock Keeping Unit';
-$_['help_upc']                = 'Universal Product Code';
+$_['help_upc']                = 'Universal Course Code';
 $_['help_ean']                = 'European Article Number';
 $_['help_jan']                = 'Japanese Article Number';
 $_['help_isbn']               = 'International Standard Book Number';
 $_['help_mpn']                = 'Manufacturer Part Number';
 $_['help_minimum']            = 'Force a minimum ordered amount';
-$_['help_stock_status']       = 'Status shown when a product is out of stock';
+$_['help_stock_status']       = 'Status shown when a course is out of stock';
 $_['help_manufacturer']       = '(Autocomplete)';
 $_['help_category']           = '(Autocomplete)';
 $_['help_filter']             = '(Autocomplete)';
 $_['help_download']           = '(Autocomplete)';
 $_['help_related']            = '(Autocomplete)';
 $_['help_option']             = '(Autocomplete)';
-$_['help_points']             = 'Number of points needed to buy this item. If you don\'t want this product to be purchased with points leave as 0.';
+$_['help_points']             = 'Number of points needed to buy this item. If you don\'t want this course to be purchased with points leave as 0.';
 
 // Error
 $_['error_warning']           = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']        = 'Warning: You do not have permission to modify products!';
-$_['error_name']              = 'Product Name must be greater than 1 and less than 255 characters!';
+$_['error_permission']        = 'Warning: You do not have permission to modify courses!';
+$_['error_name']              = 'Course Name must be greater than 1 and less than 255 characters!';
 $_['error_meta_title']        = 'Meta Title must be greater than 1 and less than 255 characters!';
-$_['error_model']             = 'Product Model must be greater than 1 and less than 64 characters!';
+$_['error_model']             = 'Course Model must be greater than 1 and less than 64 characters!';
 $_['error_keyword']           = 'SEO URL must be between 1 and 64 characters!';
 $_['error_keyword_exists']    = 'SEO URL must be unique!';
 $_['error_keyword_character'] = 'Keyword can only use characters a-z, 0-9, - and _!';

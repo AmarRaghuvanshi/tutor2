@@ -43,8 +43,8 @@ $_['text_comment_add']   = 'Leave your comment';
 $_['text_write']         = 'Write your comment here.';
 $_['text_purchase']      = 'Please confirm who you are!';
 $_['text_pin']           = 'Please enter your 4 digit PIN number. This PIN number is to protect your account.';
-$_['text_secure']        = 'Do not give your PIN to anyone (including developers). If you require assistance, please send an email to the extension seller in regards to the specific extension package.';
-$_['text_name']          = 'Download Name';
+$_['text_secure']        = 'Do not give your PIN to anyone (including developers). If you require assistance, please send an email to the extension tutor in regards to the specific extension package.';
+$_['text_name']          = 'Material Name';
 $_['text_available']     = 'Available Installs';
 $_['text_action']        = 'Action';
 $_['text_install']       = 'Install';
@@ -60,7 +60,7 @@ $_['entry_pin']          = 'PIN';
 // Tab
 $_['tab_description']    = 'Description';
 $_['tab_documentation']  = 'Documentation';
-$_['tab_download']       = 'Download';
+$_['tab_download']       = 'Material';
 $_['tab_comment']        = 'Comment';
 
 // Button

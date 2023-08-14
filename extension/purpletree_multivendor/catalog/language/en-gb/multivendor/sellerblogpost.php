@@ -3,7 +3,7 @@
 $_['heading_title']          = 'Blog Post';
 
 // Text
-$_['text_success']           = 'Success: You have modified seller blog post!';
+$_['text_success']           = 'Success: You have modified tutor blog post!';
 $_['text_list']              = ' Blog Post List';
 $_['text_add']               = ' Add Blog Post';
 $_['text_edit']              = 'Edit Blog Post';
@@ -41,7 +41,7 @@ $_['entry_author']           = 'Author';
 $_['entry_sort_order']       = 'Sort Order';
 $_['entry_category']         = 'Categories';
 $_['entry_post_tags']         = 'Tags';
-$_['entry_seller_store']      = 'Seller Store';
+$_['entry_seller_store']      = 'Tutor Store';
 
 // Help
 $_['help_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';

@@ -5,7 +5,7 @@ $_['heading_title']    = 'Mga Tampok na Produkto ng Nagbebenta ng kategorya ng M
 // Text
 $_['text_extension']   = 'Mga Extension';
 $_['text_success']     = 'Tagumpay: Binago mo ang module ng itinatampok na kategorya ng Nagbebenta!';
-$_['text_edit']        = 'Edit Category Seller Featured Module';
+$_['text_edit']        = 'Edit Category Tutor Featured Module';
 
 // Entry
 $_['entry_limit']      = 'Limitasyon';

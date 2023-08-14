@@ -16,9 +16,9 @@ $_['text_enabled']           = 'Enabled';
 $_['email_subject']='Subscription Plan Updated';
 $_['email_first_subject']='Your Subscription Plan Purchase';
 $_['email_comment_subject']='Comment Added in Subscription Invoice';
-$_['heading_create_plan_confirmation'] = 'Seller Plan Confirmation';
+$_['heading_create_plan_confirmation'] = 'Tutor Plan Confirmation';
 $_['error_subscription_plan_pending'] = 'Subscription Plan: invoice status pending';
-$_['error_product'] = 'Seller Assigned product less than or equal to Subscription Plan Product';
+$_['error_product'] = 'Tutor Assigned product less than or equal to Subscription Plan Product';
 //heading
 $_['heading_current_plan'] = 'Current Plan';
 
@@ -26,14 +26,14 @@ $_['heading_current_plan'] = 'Current Plan';
 $_['column_sellected_plan'] = 'Selected Plan';
 $_['column_start_date'] = 'Started Date';
 $_['column_end_date'] = 'End Date';
-$_['column_allowed_products'] = 'Total Products allowed';
-$_['column_used_products'] = 'Used Products';
+$_['column_allowed_products'] = 'Total Courses allowed';
+$_['column_used_products'] = 'Used Courses';
 
-$_['column_no_of_products'] = 'No. of Products';
+$_['column_no_of_products'] = 'No. of Courses';
 $_['column_joining_fees'] = 'Joining Fees';
 $_['column_subscription_fees'] = 'Subscription Fees';
 $_['column_validity'] = 'Validity( in days )';
-$_['column_products'] = 'Products';
+$_['column_products'] = 'Courses';
 $_['column_days'] = 'Days';
 $_['column_description'] = 'Description';
 $_['column_new_plan'] = 'New Plan';
@@ -53,9 +53,9 @@ $_['button_view_description'] = 'Details';/////////
 $_['text_start_now'] = 'Start Now';
 $_['text_start_at_end'] = 'Start at End of current Plan';
 $_['text_active'] = 'Active';/////////
-$_['text_featured_products'] = 'Featured Products: ';
+$_['text_featured_products'] = 'Featured Courses: ';
 $_['text_featured_store'] = 'Featured Store: ';
-$_['text_category_featured_products'] = 'Category Featured Products: ';
+$_['text_category_featured_products'] = 'Level Featured Courses: ';
 
 //error
 
@@ -67,13 +67,13 @@ $_['text_address'] = 'Address';
 $_['text_telephone'] = 'Telephone';
 $_['text_email'] = 'Email';
 $_['text_website'] = 'Website';
-$_['text_seller_storename'] = 'Seller Store Name';
+$_['text_seller_storename'] = 'Tutor Store Name';
 $_['text_invoice_number'] = 'Invoice Number';
 $_['text_created_date'] = 'Created Date';
 $_['text_status'] = 'Status';
 $_['text_grand_total'] = 'Grand Total';
 $_['text_no_results'] = 'No results!';
-$_['text_seller_name'] = 'Seller Name';/////////////////
+$_['text_seller_name'] = 'Tutor Name';/////////////////
 $_['text_invoices'] = 'Invoices';
 
 $_['text_subscription_status'] = "Subscription Status";
@@ -81,7 +81,7 @@ $_['text_invoive_status'] = "Invoice Status";
 //heading
 $_['heading_make_payment'] = 'Make Payment';
 $_['heading_payment_history'] = 'Payment History';
-$_['heading_create_plan_confirmation'] = 'Seller Plan Confirmation';
+$_['heading_create_plan_confirmation'] = 'Tutor Plan Confirmation';
 
 //button
 $_['button_pay_offline'] = 'Pay Offline';

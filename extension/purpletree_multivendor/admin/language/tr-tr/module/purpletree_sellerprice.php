@@ -2,7 +2,7 @@
 $_['heading_title']   = 'Çoklu satıcı Satıcı Fiyatı';
 $_['text_edit']        = 'Çoklu satıcı Satıcı Fiyat Modülünü Düzenle';
 $_['text_extension']   = 'Uzantılar';
-$_['text_success']     = 'Success: You have modified Çoklu satıcı Seller Price module!';
+$_['text_success']     = 'Success: You have modified Çoklu satıcı Tutor Price module!';
 // Entry
 $_['entry_status']     = 'Durum';
 $_['text_sellerstore']   = 'Mağaza Bilgileri';

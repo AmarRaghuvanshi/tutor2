@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_['heading_title']         = 'Sellers';
+$_['heading_title']         = 'Tutors';
 
 // Text
-$_['text_success']          = 'Success: You have modified sellers!';
-$_['text_list']             = 'Seller List';
-$_['text_add']              = 'Add Seller';
-$_['text_edit']             = 'Edit Seller';
+$_['text_success']          = 'Success: You have modified tutors!';
+$_['text_list']             = 'Tutor List';
+$_['text_add']              = 'Add Tutor';
+$_['text_edit']             = 'Edit Tutor';
 $_['text_default']          = 'Default';
 $_['text_balance']          = 'Balance';
 $_['text_approved']          = 'Approved';
@@ -15,7 +15,7 @@ $_['text_all']                   = 'All';
 $_['text_no_results']       = 'No Results';
 
 // Column
-$_['column_name']           = 'Seller Name';
+$_['column_name']           = 'Tutor Name';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Customer Group';
 $_['column_status']         = 'Status';
@@ -55,16 +55,16 @@ $_['entry_comment']         = 'Comment';
 $_['entry_description']     = 'Description';
 $_['entry_amount']          = 'Amount';
 $_['entry_points']          = 'Points';
-$_['entry_name']            = 'Seller Name';
+$_['entry_name']            = 'Tutor Name';
 $_['entry_ip']              = 'IP';
 $_['entry_date_added']      = 'Date Added';
 $_['text_enabled']          = 'Enabled';
 $_['text_disabled']         = 'Disabled';
 $_['button_delete']         = 'Delete';
 $_['button_send_massage']         = 'Send Message';
-$_['text_success_delete']         = 'Seller Deleted Successfully';
+$_['text_success_delete']         = 'Tutor Deleted Successfully';
 // Help
-$_['help_safe']             = 'Set to true to avoid this seller from being caught by the anti-fraud system';
+$_['help_safe']             = 'Set to true to avoid this tutor from being caught by the anti-fraud system';
 $_['help_points']           = 'Use minus to remove points';
 
 // Error
@@ -87,16 +87,16 @@ $_['entry_add_susbcription']            = 'Add Subscription';
 $_['entry_subscription_status']            = 'Subscription Status';
 $_['entry_subscribed']            = 'Subscribed';
 $_['entry_not_subscribed']            = 'Not Subscribed';
-$_['text_seller_sub_plan']            = 'Subscription plans of seller';
-$_['text_seller_product']            = 'Products of seller';
-$_['text_seller_order']            = 'Orders of seller';
-$_['text_commission_invoice_seller']            = 'Commissions & Invoices of seller';
-$_['text_blogs_seller']            = 'Blogs of seller';
-$_['text_seller_download']            = 'Downloads of seller';
-$_['text_seller_review']            = 'Seller reviews';
-$_['text_seller_cust_seller']     = 'Customer enquiries of seller';
+$_['text_seller_sub_plan']            = 'Subscription plans of tutor';
+$_['text_seller_product']            = 'Products of tutor';
+$_['text_seller_order']            = 'Orders of tutor';
+$_['text_commission_invoice_seller']    = 'Commissions & Invoices of tutor';
+$_['text_blogs_seller']            = 'Blogs of tutor';
+$_['text_seller_download']            = 'Materials of tutor';
+$_['text_seller_review']            = 'Tutor reviews';
+$_['text_seller_cust_seller']     = 'Customer enquiries of tutor';
 $_['text_shipping_rate']     = 'Shipping rates';
-$_['text_delete_product']     = 'Delete Products';
+$_['text_delete_product']     = 'Delete Courses';
 $_['text_delete_confirm']     = 'Delete Confirm';
-$_['text_heading']     = 'Sellers';
-$_['heading_title_delete']     = 'Confirm Delete Seller';
+$_['text_heading']     = 'Tutors';
+$_['heading_title_delete']     = 'Confirm Delete Tutor';

@@ -20,13 +20,13 @@ $_['text_list']		= 'Commission List';
 $_['text_empty']		= 'You do not have any commissions!';
 $_['entry_date_from']          = 'Date From';
 $_['entry_date_to']          = 'Date To';
-$_['entry_store']          = 'Seller store';
-$_['entry_select_store']          = 'Select Seller store';
+$_['entry_store']          = 'Tutor store';
+$_['entry_select_store']          = 'Select Tutor store';
 $_['button_filter'] = 'Filter';
 $_['success_message'] = ' Invoice Created Successfully';
 $_['help_store'] = ' Note : Select store to generate Invoice';
 $_['help_Invoice'] = ' Invoice already generated';
-$_['text_store_name']		= 'Seller Store Name';
+$_['text_store_name']		= 'Tutor Store Name';
 //error
 $_['error_alrady_generated']		= "Commission Invoice already generated";
 ?>

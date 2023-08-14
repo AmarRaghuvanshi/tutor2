@@ -14,7 +14,7 @@ $_['text_approval']   	=	"<b> Warten auf Verkäufer Genehmigung </ b>";
 $_['text_sellerpayment']   	=	"Zahlungen";
 $_['text_sellerreview']   	=	"Meine Bewertungen";
 $_['text_sellerenquiry']   	=	"Kundenanfragen";
-$_['text_downloads']   = "Downloads verwalten";
+$_['text_downloads']   = "Materials verwalten";
 $_['text_bulkproductupload']     = "Massenprodukt-Upload";
 $_['text_shipping']              = "Versandkosten";
 

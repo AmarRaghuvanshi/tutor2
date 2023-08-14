@@ -50,7 +50,7 @@ $_['help_sort_order']      = 'Verwenden Sie Minus, um vom letzten Feld im Satz r
 
 // Error
 $_['error_permission']     = 'WWarnung: Sie sind nicht berechtigt, benutzerdefinierte Verkäuferfelder zu ändern!';
-$_['error_name']           = 'Seller Custom Field Name muss zwischen 1 und 128 Zeichen lang sein!';
+$_['error_name']           = 'Tutor Custom Field Name muss zwischen 1 und 128 Zeichen lang sein!';
 $_['error_type']           = 'Warnung: Benutzerdefinierte Feldwerte des Verkäufers erforderlich!';
 $_['error_custom_value']   = 'Der benutzerdefinierte Wertname des Verkäufers muss zwischen 1 und 128 Zeichen lang sein!';
 //Extra

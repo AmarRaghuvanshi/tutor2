@@ -3,7 +3,7 @@
 $_['heading_title']          = 'Blog Post';
 
 // Text
-$_['text_success']           = 'Success: You have modified seller blog post!';
+$_['text_success']           = 'Success: You have modified tutor blog post!';
 $_['text_list']              = ' Blog Post List';
 $_['text_add']               = ' Add Blog Post';
 $_['text_edit']              = 'Edit Blog Post';
@@ -39,9 +39,9 @@ $_['entry_store']            = 'Stores';$_['entry_status']           = 'Status';
 $_['entry_image']           = 'Image';
 $_['entry_author']           = 'Author';
 $_['entry_sort_order']       = 'Sort Order';
-$_['entry_category']         = 'Categories';
+$_['entry_category']         = 'Levels';
 $_['entry_post_tags']         = 'Tags';
-$_['entry_seller_store']      = 'Seller Store';
+$_['entry_seller_store']      = 'Tutor Store';
 
 // Help
 $_['help_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
@@ -49,7 +49,7 @@ $_['help_category']          = '(Autocomplete)';
 
 // Error
 $_['error_warning']          = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']       = 'Warning: You do not have permission to modify products!';
+$_['error_permission']       = 'Warning: You do not have permission to modify courses!';
 $_['error_name']             = 'Title must be greater than 3 and less than 255 characters!';
 $_['error_description']      = 'Description is require!';
 $_['error_meta_title']       = 'Meta Title must be greater than 3 and less than 255 characters!';

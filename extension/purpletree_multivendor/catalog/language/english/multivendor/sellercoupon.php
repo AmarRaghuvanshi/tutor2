@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Seller Coupons';
+$_['heading_title']       = 'Tutor Coupons';
 
 // Text
 $_['text_success']        = 'Success: You have modified coupons!';
@@ -32,8 +32,8 @@ $_['entry_discount']      = 'Discount';
 $_['entry_logged']        = 'Customer Login';
 $_['entry_shipping']      = 'Free Shipping';
 $_['entry_total']         = 'Total Amount';
-$_['entry_category']      = 'Category';
-$_['entry_product']       = 'Products';
+$_['entry_category']      = 'Level';
+$_['entry_product']       = 'Courses';
 $_['entry_date_start']    = 'Date Start';
 $_['entry_date_end']      = 'Date End';
 $_['entry_uses_total']    = 'Uses Per Coupon';
@@ -45,8 +45,8 @@ $_['help_code']           = 'The code the customer enters to get the discount.';
 $_['help_type']           = 'Percentage or Fixed Amount.';
 $_['help_logged']         = 'Customer must be logged in to use the coupon.';
 $_['help_total']          = 'The total amount that must be reached before the coupon is valid.';
-$_['help_category']       = 'Choose all products under selected category.';
-$_['help_product']        = 'Choose specific products the coupon will apply to. Select no products to apply coupon to entire cart.';
+$_['help_category']       = 'Choose all courses under selected category.';
+$_['help_product']        = 'Choose specific courses the coupon will apply to. Select no courses to apply coupon to entire cart.';
 $_['help_uses_total']     = 'The maximum number of times the coupon can be used by any customer. Leave blank for unlimited';
 $_['help_uses_customer']  = 'The maximum number of times the coupon can be used by a single customer. Leave blank for unlimited';
 

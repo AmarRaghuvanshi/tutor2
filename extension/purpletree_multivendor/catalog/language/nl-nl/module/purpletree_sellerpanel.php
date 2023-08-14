@@ -15,7 +15,7 @@ $_['text_approval']   = '<b>Wachtende op acceptatie verkoper</b>';
 $_['text_sellerpayment']   = 'Betalingen';
 $_['text_sellerreview']   = 'Mijn reviews';
 $_['text_sellerenquiry']   = 'Klantvragen';
-$_['text_downloads']   = "Beheer downloads";
+$_['text_downloads']   = "Beheer Materials";
 $_['text_bulkproductupload']     = "Bulkproduct upload";
 $_['text_shipping']              = "Verzendkosten";
 

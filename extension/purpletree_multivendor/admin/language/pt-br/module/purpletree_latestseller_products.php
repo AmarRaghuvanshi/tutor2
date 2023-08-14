@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Produtos mais recentes de Multivendor Sellers ';
+$_['heading_title']    = 'Produtos mais recentes de Multivendor Tutors ';
 
 // Text
 $_['text_extension']   = 'Extensões';

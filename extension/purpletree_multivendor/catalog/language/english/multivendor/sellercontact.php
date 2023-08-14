@@ -3,7 +3,7 @@
 $_['heading_title']  = 'Customer Enquiries';
 
 // Text
-$_['text_success']   = 'Your enquiry has been successfully sent to the seller!';
+$_['text_success']   = 'Your enquiry has been successfully sent to the tutor!';
 $_['text_heading'] = 'Customer Enquiries';
 $_['text_empty_result'] = 'There are no customer enquiry available.';
 
@@ -20,7 +20,7 @@ $_['email_subject']  = 'Enquiry from %s';
 $_['error_name']     = 'Name must be between 3 and 32 characters!';
 $_['error_email']    = 'E-Mail Address does not appear to be valid!';
 $_['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';
-$_['text_error']  	 = 'Seller not found!';
+$_['text_error']  	 = 'Tutor not found!';
 
 $_['text_contact_message'] = 'Inquiry submitted from page';
 

@@ -1,7 +1,7 @@
 <?php 		
-$_['heading_title']   	=	"Multivendor Seller Panel";
+$_['heading_title']   	=	"Multivendor Tutor Panel";
 
-$_['text_edit']        	=	"I-edit ang Multivendor Seller Panel Module";
+$_['text_edit']        	=	"I-edit ang Multivendor Tutor Panel Module";
 
 $_['text_extension']   	=	"Mga Extension";
 $_['text_success']     	=	"Tagumpay: Binago mo ang module ng account!";

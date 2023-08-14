@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Los últimos productos de Multi vendedor Sellers ';
+$_['heading_title']    = 'Los últimos productos de Multi vendedor Tutors ';
 
 // Text
 $_['text_extension']   = 'Extensiones';

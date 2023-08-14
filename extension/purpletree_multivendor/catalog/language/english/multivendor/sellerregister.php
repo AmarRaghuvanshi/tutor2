@@ -23,13 +23,13 @@ $_['error_confirm']        = 'Password confirmation does not match password!';
 $_['error_agree']          = 'Warning: You must agree to the %s!';
 
 
-//seller registration//
-$_['text_seller_register']           = 'Seller Login';
+//tutor registration//
+$_['text_seller_register']           = 'Tutor Login';
 $_['text_personal_details']           = 'Personal details';
-$_['text_seller_information1']           = 'Seller Information';
+$_['text_seller_information1']           = 'Tutor Information';
 $_['text_payment_details1']           = 'Payment Details';
 $_['text_seller_login1']           = 'Login';
-$_['text_new_customer_register']           = 'Registered Seller ?';
+$_['text_new_customer_register']           = 'Registered Tutor ?';
 $_['btn_prev']           = 'Previous';
 $_['btn_next']           = 'Next';
 $_['btn_submit1']           = 'Submit';
@@ -48,13 +48,13 @@ $_['error_enter_confirm_password'] = "Confirm password mismatch";
 $_['error_enter_telephone']      = 'Telephone must be between 3 and 32 characters!';
 $_['error_enter_agree']          = 'Warning: This field is required!';
 
-///seller login///
-$_['text_seller_login_page'] = "Seller Login";
-$_['text_new_seller'] = " New Seller ?";
+///tutor login///
+$_['text_seller_login_page'] = "Tutor Login";
+$_['text_new_seller'] = " New Tutor ?";
 $_['text_register_new'] = " Register Here";
-$_['text_seller_login'] = "Seller Login";
-$_['error_seller_not_found'] = "Seller Not Found";
-$_['text_seller_register_page']           = 'Seller Registration';
+$_['text_seller_login'] = "Tutor Login";
+$_['error_seller_not_found'] = "Tutor Not Found";
+$_['text_seller_register_page']           = 'Tutor Registration';
 $_['text_forgotten']               = 'Forgotten Password';
 
 // Error
@@ -65,11 +65,11 @@ $_['error_seller_validation']               = 'invalid value given for %s !';
 
 //button
 $_['button_login']="Login";
-$_['entry_sellerarea']       = 'Seller Areas';
+$_['entry_sellerarea']       = 'Tutor Areas';
 $_['help_sellerarea']       = '(Autocomplete)';
 $_['text_all_sellerarea']       = 'All';
 $_['text_selected_sellerarea']       = 'Selected';
 $_['text_seller_area_ok']       = 'Ok';
 $_['text_search_area_placeholder']       = 'Search area';
-$_['text_message']       = 'No seller is available for this area.';
+$_['text_message']       = 'No tutor is available for this area.';
 

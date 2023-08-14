@@ -83,7 +83,7 @@ $_['entry_status']           	=	"Status";
 $_['entry_sort_order']       	=	"Sortierung";
 $_['entry_category']         	=	"Kategorien";
 $_['entry_filter']           	=	"Filter";
-$_['entry_download']         	=	"Downloads";
+$_['entry_download']         	=	"Materials";
 $_['entry_related']          	=	"Ähnliche Produkte";
 $_['entry_tag']          	 	=	"Produkt-Tags";
 $_['entry_reward']           	=	"PRÄMIENPUNKTE";
@@ -93,7 +93,7 @@ $_['entry_recurring']        	=	"Wiederkehrendes Profil";
 // Help		
 $_['help_keyword']           	=	"Verwenden Sie keine Leerzeichen, sondern ersetzen Sie Leerzeichen durch - und stellen Sie sicher, dass die SEO-URL global eindeutig ist.";
 $_['help_sku']               	=	"Bestandseinheit";
-$_['help_upc']               	=	"Universeller Produkt Code";
+$_['help_upc']               	=	"Univertutor Produkt Code";
 $_['help_ean']               	=	"Europäische Artikelnummer";
 $_['help_jan']               	=	"Japanische Artikelnummer";
 $_['help_isbn']              	=	"Internationale Standardbuchnummer";

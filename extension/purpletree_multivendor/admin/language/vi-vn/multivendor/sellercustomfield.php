@@ -52,7 +52,7 @@ $_['help_sort_order']      = 'Sử dụng dấu trừ để đếm ngược từ
 $_['error_permission']     = 'Cảnh báo: Bạn không có quyền sửa đổi các trường tùy chỉnh của người bán!';
 $_['error_name']           = 'Tên trường tùy chỉnh của người bán phải có từ 1 đến 128 ký tự!';
 $_['error_type']           = 'Cảnh báo: Yêu cầu Giá trị Trường Tùy chỉnh của Người bán!';
-$_['error_custom_value']   = 'Seller Tên Giá trị Tùy chỉnh phải có từ 1 đến 128 ký tự!';
+$_['error_custom_value']   = 'Tutor Tên Giá trị Tùy chỉnh phải có từ 1 đến 128 ký tự!';
 //Extra
 $_['entry_seller_page_location'] 	= 'Đăng ký người bán';
 $_['entry_step_location'] 	= 'Địa điểm';

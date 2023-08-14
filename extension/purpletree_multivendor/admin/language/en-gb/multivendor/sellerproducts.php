@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']          = 'Seller Products';
+$_['heading_title']          = 'Tutor Products';
 
 // Text
 $_['text_success']           = 'Success: You have modified products!';
-$_['text_list']              = 'Seller Product List';
+$_['text_list']              = 'Tutor Product List';
 $_['text_add']               = 'Add Product';
 $_['text_edit']              = 'Edit Product';
 $_['text_plus']              = '+';
@@ -21,7 +21,7 @@ $_['text_all']                   = 'All';
 
 // Column
 $_['column_name']            = 'Product Name';
-$_['column_seller_name']     = 'Seller Name';
+$_['column_seller_name']     = 'Tutor Name';
 $_['column_model']           = 'Model';
 $_['column_image']           = 'Image';
 $_['column_price']           = 'Price';
@@ -82,10 +82,10 @@ $_['entry_option_value']     = 'Option Value';
 $_['entry_required']         = 'Required';
 $_['entry_status']           = 'Status';
 $_['entry_sort_order']       = 'Sort Order';
-$_['entry_category']         = 'Categories';
+$_['entry_category']         = 'Levels';
 $_['entry_filter']           = 'Filters';
-$_['entry_download']         = 'Downloads';
-$_['entry_related']          = 'Related Products';
+$_['entry_download']         = 'Materials';
+$_['entry_related']          = 'Related Courses';
 $_['entry_tag']          	 = 'Product Tags';
 $_['entry_reward']           = 'Reward Points';
 $_['entry_layout']           = 'Layout Override';
@@ -117,4 +117,4 @@ $_['error_meta_title']       = 'Meta Title must be greater than 3 and less than 
 $_['error_model']            = 'Product Model must be greater than 1 and less than 64 characters!';
 $_['error_keyword']          = 'SEO URL already in use!';
 $_['error_upload_ext']       = 'File extension should be pdf not other file accepted!';
-$_['seller_vacation_product'] = "The seller is on vacations!";
+$_['seller_vacation_product'] = "The tutor is on vacations!";

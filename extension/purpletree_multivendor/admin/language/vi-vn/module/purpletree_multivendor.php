@@ -119,10 +119,10 @@ $_['allow_browse_sellers'] ="Bật Duyệt người bán";
 $_['text_hide_user_menu']        = 'Ẩn Menu người dùng cho người bán';
 $_['heading_development_Option'] = 'Lựa chọn phát triển';
 $_['enable_include_jquery']        = 'Bao gồm jQuery';
-$_['text_hide_seller_product_tab'] = 'Sử dụng mẫu sản phẩm thông minh';//hide seller product tab
+$_['text_hide_seller_product_tab'] = 'Sử dụng mẫu sản phẩm thông minh';//hide tutor product tab
 $_['enable_multiple_active_plan']        = 'Kích hoạt nhiều gói đăng ký';
 $_['text_store_social_link']        = 'đường liên kết mạng xã hội';//social link 
-/////////////////Start seller Blog setting/////////////////
+/////////////////Start tutor Blog setting/////////////////
 $_['seller_blog_heading']    = 'Cài đặt Blog của người bán';
 $_['text_sort_order']    = 'Thứ tự sắp xếp';
 $_['text_create_date_order']    = 'Tạo ngày';

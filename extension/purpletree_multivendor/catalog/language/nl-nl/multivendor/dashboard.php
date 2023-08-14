@@ -42,7 +42,7 @@ $_['text_address']        = 'Wijzig uw adresboek-vermeldingen';
 $_['text_credit_card']    = 'Beheer opgeslagen creditcards';
 $_['text_wishlist']       = 'Wijzig uw verlanglijstje';
 
-$_['text_download']       = 'Downloads';
+$_['text_download']       = 'Materials';
 $_['text_reward']         = 'Uw beloningspunten';
 $_['text_return']         = 'Bekijk uw retour aanvragen';
 $_['text_transaction']    = 'Uw transacties';
@@ -56,7 +56,7 @@ $_['purpletree_multivendor_commission_status_warning']			 = "Waarschuwing: berek
 
 //Dashboard icons
 $_['text_Seller_Account'] = 'Verkopersaccount';
-$_['text_Manage_Downloads'] = 'Beheer downloads';
+$_['text_Manage_Downloads'] = 'Beheer Materials';
 $_['text_reviews'] = 'Mijn beoordelingen';
 $_['text_Customer_Enquiries'] = 'Vragen van klanten';
 $_['text_Manage_products'] = 'Beheer producten';

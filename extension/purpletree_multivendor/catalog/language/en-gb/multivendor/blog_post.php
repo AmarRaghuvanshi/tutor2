@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_error'] = 'Blog Post Page Not Found!';
-$_['text_blog_heading'] = 'Seller Blogs';
+$_['text_blog_heading'] = 'Tutor Blogs';
 $_['text_comment_heading'] = 'Comments';
 $_['text_comment_empty'] = 'No comments';
 $_['text_comment_reply'] = 'Leave a reply';

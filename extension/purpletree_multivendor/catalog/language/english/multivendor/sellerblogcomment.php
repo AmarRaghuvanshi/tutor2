@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = ' Seller Blog Comments';
+$_['heading_title']     = ' Tutor Blog Comments';
 
 // Text
 $_['text_success']      = 'Success: You have modified blog comments!';

@@ -36,7 +36,7 @@ $_['entry_max_days']            = "Maximum dag";
 
 // Error
 $_['error_warning']             = "Warning: Please check the form carefully for errors!";
-$_['error_filter_name']         = "Please select a Seller Name!";
+$_['error_filter_name']         = "Please select a Tutor Name!";
 $_['error_weight']              = "Weight required!";
 $_['error_shipping_price']       = "Price required!";
 $_['error_zipcode']             = "Zip code required!";

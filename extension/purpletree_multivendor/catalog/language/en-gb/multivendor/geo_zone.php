@@ -24,7 +24,7 @@ $_['error_weight_to']  = 'Weight must be between 1 and 8 numbers!';
 $_['error_weight_to_numeric']  = 'Weight must be in number!';
 
 $_['column_action']      = 'Action';
-$_['column_seller']      = 'Seller Name';
+$_['column_seller']      = 'Tutor Name';
 
 // Entry
 $_['entry_name']         = 'Geo Zone Name';
@@ -32,7 +32,7 @@ $_['entry_description']  = 'Description';
 $_['entry_price']  = 'Price';
 $_['entry_country']      = 'Country';
 $_['entry_zone']         = 'Zone';
-$_['seller_name']         = 'Seller Store Name';
+$_['seller_name']         = 'Tutor Store Name';
 $_['text_select_country']  = 'Select country';
 
 // Error

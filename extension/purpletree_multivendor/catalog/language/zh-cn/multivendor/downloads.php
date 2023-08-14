@@ -8,7 +8,7 @@ $_['text_confirm']          = "你真的想删除选定的下载！";
 $_['text_success']      = "成功：您修改了下载内容！";
 $_['text_list']         = "下载列表";
 $_['text_add']          = "添加下载";
-$_['text_edit']         = "Edit Download";
+$_['text_edit']         = "Edit Material";
 $_['text_upload']       = "编辑下载";
 
 // Column

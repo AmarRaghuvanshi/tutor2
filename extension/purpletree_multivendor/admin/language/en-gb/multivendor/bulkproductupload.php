@@ -10,9 +10,9 @@ $_['text_extrapricetype']      = 'Fixed';
 $_['text_bulk_product_upload']    = 'Bulk Product Upload';
 $_['text_bulk_product_export']    = 'Bulk Product Export';
 $_['text_bulk_product_import']    = 'Bulk Product Import';
-$_['admin_bulk_product_upload_sheet']    = 'Download template';
+$_['admin_bulk_product_upload_sheet']    = 'Material template';
 $_['text_upload_info']        = 'Overwrite existing Data  ';
-$_['text_export_info']        = 'Please click on button to export product';
+$_['text_export_info']        = 'Please click on button to export course';
 $_['text_maxtime_info']        = 'Maximum time allowed for upload: ';
 $_['text_file_size_info']        = 'Maximum file size allowed for upload: ';
 $_['text_success']              = 'Success: Your products has been upload successfully!';
@@ -21,12 +21,12 @@ $_['text_confirm']             = 'Are you sure?';
 $_['text_select_language']             = 'Select Language';
 $_['text_none']             = '-----NONE-----';
 $_['text_bulkuploadsuccess']             = 'File Uploaded Successfully';
-$_['text_aproved_product']             = 'Approve Seller Product';
+$_['text_aproved_product']             = 'Approve Tutor Product';
 $_['text_bulk_product_status_heading'] = 'Bulk Product Import/Update Status';
 
 //Entry
 $_['entry_select_language']             = 'Select Language';
-$_['entry_select_seller']             = 'Select Seller';
+$_['entry_select_seller']             = 'Select Tutor';
 $_['entry_use_product_id']            = 'To Add New product use Product ID';
 
 // button

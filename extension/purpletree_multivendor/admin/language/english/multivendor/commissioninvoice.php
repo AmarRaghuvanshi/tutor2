@@ -51,9 +51,9 @@ $_['column_id'] = 'Id';
 $_['column_actionn'] = 'Action';
 $_['payment_status'] = 'Payment Status';   
 $_['transaction_history'] = 'Transaction History'; 
-$_['column_store']          = 'Seller Store'; 
-$_['entry_store']          = 'Seller Store';
-$_['entry_select_store']          = 'Select Seller store';
+$_['column_store']          = 'Tutor Store'; 
+$_['entry_store']          = 'Tutor Store';
+$_['entry_select_store']          = 'Select Tutor store';
 
 //message
 $_['payment_successfully_captured'] ="Payment Successfully captured";

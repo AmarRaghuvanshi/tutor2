@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = ' Seller Blog Comments';
+$_['heading_title']     = ' Tutor Blog Comments';
 
 // Text
 $_['text_success']      = 'Success: You have modified blog comments!';
@@ -17,7 +17,7 @@ $_['column_email']     = 'Email Id';
 $_['column_status']     = 'Status';
 $_['column_date_added'] = 'Date Added';
 $_['column_action']     = 'Action';
-$_['column_seller_store']    = 'Seller Store';
+$_['column_seller_store']    = 'Tutor Store';
 
 // Entry
 $_['entry_post']     = 'Post Name';
@@ -26,7 +26,7 @@ $_['entry_email']      = 'Email';
 $_['entry_status']      = 'Status';
 $_['entry_text']        = 'Text';
 $_['entry_date_added']  = 'Date Added';
-$_['entry_seller_store']      = 'Seller Store';
+$_['entry_seller_store']      = 'Tutor Store';
 
 // Help
 $_['help_post']      = '(Autocomplete)';

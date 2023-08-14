@@ -5,7 +5,7 @@ $_['heading_title']    = 'Productos destacados del vendedor de la categoría de 
 // Text
 $_['text_extension']   = 'Extensiones';
 $_['text_success']     = 'Éxito: ¡Has modificado el módulo destacado de vendedor de categoría!';
-$_['text_edit']        = 'Edit Category Seller Featured Module';
+$_['text_edit']        = 'Edit Category Tutor Featured Module';
 
 // Entry
 $_['entry_limit']      = 'Límite';

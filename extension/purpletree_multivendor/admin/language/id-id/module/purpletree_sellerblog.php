@@ -4,7 +4,7 @@ $_['heading_title']   = 'Pengaturan Blog Penjual Multivendor';
 // Text
 $_['text_extension']   = 'Ekstensi';
 $_['text_success']     = 'Sukses: Anda telah memodifikasi modul pengaturan blog Multivendor!';
-$_['text_edit']        = 'Edit Multivendor Seller Blog Setting Module';
+$_['text_edit']        = 'Edit Multivendor Tutor Blog Setting Module';
 
 // Entry
 $_['entry_name']       = 'Nama Modul';

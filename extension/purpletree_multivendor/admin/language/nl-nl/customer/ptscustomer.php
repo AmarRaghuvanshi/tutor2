@@ -39,7 +39,7 @@ $_['text_blog_post']             	     = 'blog';
 $_['text_blog_comment']              	 = 'Comments';
 $_['text_admintemplate']       		= 'Productsjablonen';
 $_['text_sellertemplate']       		= 'Productsjablonen van verkoper';
-/////commission invoice and seller commission/////
+/////commission invoice and tutor commission/////
 $_['text_pt_commissioninvoice']  = 'commissie factuur';
 $_['text_pt_sellercommission']  = 'Commissies';
 $_['text_pt_seller_enquiries']        = 'Verkopersberichten';	

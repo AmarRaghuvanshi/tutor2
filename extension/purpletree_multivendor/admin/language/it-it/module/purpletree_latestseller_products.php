@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Ultimi venditori di Multivendor Sellers ';
+$_['heading_title']    = 'Ultimi venditori di Multivendor Tutors ';
 
 // Text
 $_['text_extension']   = 'estensioni';

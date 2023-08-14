@@ -18,11 +18,11 @@ $_['column_action']    = 'Aksyon';
 $_['column_categories']          = 'Kategorya';
 $_['column_commission']          = 'Komisyon (%)';
 $_['column_commission_fixed']          = 'Fixed Commission';
-$_['column_seller_group']          = 'Seller Group';
+$_['column_seller_group']          = 'Tutor Group';
 
 // Entry
 $_['entry_commission_fixed']      = 'Fixed Commission';
-$_['entry_seller_group']      = 'Seller Group';
+$_['entry_seller_group']      = 'Tutor Group';
 $_['entry_commission']      = 'Komisyon (%)';
 $_['entry_categories']      = 'Kategorya';
 $_['entry_comment']         = 'Magkomento';

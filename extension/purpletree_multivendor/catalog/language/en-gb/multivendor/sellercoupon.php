@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Seller Coupons';
+$_['heading_title']       = 'Tutor Coupons';
 
 // Text
 $_['text_success']        = 'Success: You have modified coupons!';

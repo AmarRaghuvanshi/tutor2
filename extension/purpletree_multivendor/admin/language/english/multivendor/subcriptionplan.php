@@ -34,7 +34,7 @@ $_['entry_status']           = 'Status';
 
 //plan confirm
 // Column
-$_['column_seller_plan_confirmation'] = 'Seller Plan Confirmation';
+$_['column_seller_plan_confirmation'] = 'Tutor Plan Confirmation';
 $_['column_current_plan'] ='Current Plan';
 $_['column_new_plan'] = 'New Plan';
 $_['column_subtotal'] = 'Subtotal';

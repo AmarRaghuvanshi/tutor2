@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']    = 'Multivendor Category Seller Featured Products';
+$_['heading_title']    = 'Multivendor Category Tutor Featured Products';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Category Seller featured module!';
-$_['text_edit']        = 'Edit Category Seller Featured Module';
+$_['text_success']     = 'Success: You have modified Category Tutor featured module!';
+$_['text_edit']        = 'Edit Category Tutor Featured Module';
 $_['entry_limit']      = 'Limit';
 $_['entry_width']      = 'Width';
 $_['entry_height']     = 'Height';

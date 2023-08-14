@@ -4,7 +4,7 @@ $_['heading_title']   = 'Multivendor Verkäufer Blog Einstellung';
 // Text
 $_['text_extension']   = 'Erweiterungen';
 $_['text_success']     = 'Erfolg: Sie haben das Multivendor Blog-Einstellungsmodul geändert!';
-$_['text_edit']        = 'Bearbeiten Multivendor Seller Blog Einstellungsmodul';
+$_['text_edit']        = 'Bearbeiten Multivendor Tutor Blog Einstellungsmodul';
 
 // Entry
 $_['entry_name']       = 'Modulname';

@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_['heading_title']          = 'Seller Products';
+$_['heading_title']          = 'Tutor Courses';
 
 // Text
-$_['text_success']           = 'Success: You have modified products!';
-$_['text_list']              = 'Seller Product List';
-$_['text_add']               = 'Add Product';
-$_['text_edit']              = 'Edit Product';
+$_['text_success']           = 'Success: You have modified course!';
+$_['text_list']              = 'Tutor Course List';
+$_['text_add']               = 'Add Course';
+$_['text_edit']              = 'Edit Course';
 $_['text_plus']              = '+';
 $_['text_minus']             = '-';
 $_['text_default']           = 'Default';
@@ -20,8 +20,8 @@ $_['text_no_results']	= 'No result!';
 $_['text_all']                   = 'All';
 
 // Column
-$_['column_name']            = 'Product Name';
-$_['column_seller_name']     = 'Seller Name';
+$_['column_name']            = 'Course Name';
+$_['column_seller_name']     = 'Tutor Name';
 $_['column_model']           = 'Model';
 $_['column_image']           = 'Image';
 $_['column_price']           = 'Price';
@@ -35,7 +35,7 @@ $_['button_filter']			= 'Filter';
 $_['button_edit']			= 'Edit';////due another language
 
 // Entry
-$_['entry_name']             = 'Product Name';
+$_['entry_name']             = 'Course Name';
 $_['entry_description']      = 'Description';
 $_['entry_meta_title'] 	     = 'Meta Tag Title';
 $_['entry_meta_keyword'] 	 = 'Meta Tag Keywords';
@@ -82,10 +82,10 @@ $_['entry_option_value']     = 'Option Value';
 $_['entry_required']         = 'Required';
 $_['entry_status']           = 'Status';
 $_['entry_sort_order']       = 'Sort Order';
-$_['entry_category']         = 'Categories';
+$_['entry_category']         = 'Levels';
 $_['entry_filter']           = 'Filters';
-$_['entry_download']         = 'Downloads';
-$_['entry_related']          = 'Related Products';
+$_['entry_download']         = 'Materials';
+$_['entry_related']          = 'Related Courses';
 $_['entry_tag']          	 = 'Product Tags';
 $_['entry_reward']           = 'Reward Points';
 $_['entry_layout']           = 'Layout Override';
@@ -112,9 +112,9 @@ $_['help_tag']               = 'Comma separated';
 // Error
 $_['error_warning']          = 'Warning: Please check the form carefully for errors!';
 $_['error_permission']       = 'Warning: You do not have permission to modify products!';
-$_['error_name']             = 'Product Name must be greater than 3 and less than 255 characters!';
+$_['error_name']             = 'Course Name must be greater than 3 and less than 255 characters!';
 $_['error_meta_title']       = 'Meta Title must be greater than 3 and less than 255 characters!';
-$_['error_model']            = 'Product Model must be greater than 1 and less than 64 characters!';
+$_['error_model']            = 'Course Model must be greater than 1 and less than 64 characters!';
 $_['error_keyword']          = 'SEO URL already in use!';
 $_['error_upload_ext']       = 'File extension should be pdf not other file accepted!';
-$_['seller_vacation_product'] = "The seller is on vacations!";
+$_['seller_vacation_product'] = "The tutor is on vacations!";

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']          = 'Seller Subscription';
+$_['heading_title']          = 'Tutor Subscription';
 $_['heading_current_plan'] = 'Current Plan';
 
 // Text
@@ -15,7 +15,7 @@ $_['text_grand_total'] = "Grand Total";
 $_['text_subscription_plans'] = "Subscription Plans";
 
 // Column
-$_['column_seller_name']            = 'Seller Name';
+$_['column_seller_name']            = 'Tutor Name';
 $_['column_plan']            = 'Plan Name';
 $_['column_reminder']            = 'Reminder';
 $_['column_status']            = 'Subscription Status';
@@ -55,10 +55,10 @@ $_['text_disabled_all_products'] = 'Disabled all products';
 
 //manage subscription plan form
 //text
-$_['text_list_Seller_Plan_View']     = 'Seller Plan View';
+$_['text_list_Seller_Plan_View']     = 'Tutor Plan View';
 
 //button
-$_['button_assign_new_plan'] = 'Assign New Seller Plan';
+$_['button_assign_new_plan'] = 'Assign New Tutor Plan';
 $_['button_update'] ='Update';
 $_['button_Add_Payment_History']= 'Add Payment History';
 $_['button_view_invoicw']= 'View Invoice';
@@ -72,7 +72,7 @@ $_['subscription_details'] ="Subscription Details";
 $_['column_allowed_products'] ='Allowed Products';
 $_['column_used_products'] ='Used Products';
 $_['column_Reminders_sent'] ='Reminders sent';
-$_['column_Seller_Plan_Status'] ='Seller Plan Status';
+$_['column_Seller_Plan_Status'] ='Tutor Plan Status';
 $_['column_Enabled'] ='Enabled';
 $_['column_Disabled'] ='Disabled';
 $_['column_id'] ='ID';
@@ -92,7 +92,7 @@ $_['error_no_of_product']             = 'Product must be between 1 and 255 chara
 $_['error_joining_fee']             = 'Joining Fee must be between 1 and 255 characters!';
 $_['error_subscription_price']             = 'Subscription price must be between 1 and 255 characters!';
 $_['error_validity']             = 'Validity must be between 1 and 255 characters!';
-$_['error_please_select_seller'] ="Please Select Seller";
+$_['error_please_select_seller'] ="Please Select Tutor";
 $_['error_subscriptionplan_pending'] ="Previous Subscription Plan is still Pending";
 $_['error_subscription_pending']  = "Subscription Plan Pending";
 $_['email_subject']='Subscription Plan Updated';

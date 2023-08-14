@@ -4,7 +4,7 @@ $_['heading_title']    = 'Multivendor Kategorie Verkäufer Ausgewählte Produkte
 
 // Text
 $_['text_extension']   = 'Erweiterungen';
-$_['text_success']     = 'Erfolg: Sie haben das von Category Seller empfohlene Modul geändert!';
+$_['text_success']     = 'Erfolg: Sie haben das von Category Tutor empfohlene Modul geändert!';
 $_['text_edit']        = 'Kategorie bearbeiten Verkäufer Empfohlenes Modul';
 $_['entry_limit']      = 'Grenze';
 $_['entry_width']      = 'Breite';

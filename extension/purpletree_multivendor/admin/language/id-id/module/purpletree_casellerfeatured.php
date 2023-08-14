@@ -4,7 +4,7 @@ $_['heading_title']    = 'Penjual Produk Unggulan Kategori Multivendor';
 
 // Text
 $_['text_extension']   = 'Ekstensi';
-$_['text_success']     = 'Berhasil: Anda telah mengubah modul unggulan Kategori Seller!';
+$_['text_success']     = 'Berhasil: Anda telah mengubah modul unggulan Kategori Tutor!';
 $_['text_edit']        = 'Edit Kategori Modul Unggulan Penjual';
 
 // Entry

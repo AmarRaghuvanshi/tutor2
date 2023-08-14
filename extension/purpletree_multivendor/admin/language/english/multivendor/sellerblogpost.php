@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title']          = ' Seller Blog Post';
+$_['heading_title']          = ' Tutor Blog Post';
 
 // Text
-$_['text_success']           = 'Success: You have modified seller blog post!';
-$_['text_list']              = 'Seller Blog Post List';
-$_['text_add']               = 'Seller Add Blog Post';
-$_['text_edit']              = 'Edit Seller Blog Post';
+$_['text_success']           = 'Success: You have modified tutor blog post!';
+$_['text_list']              = 'Tutor Blog Post List';
+$_['text_add']               = 'Tutor Add Blog Post';
+$_['text_edit']              = 'Edit Tutor Blog Post';
 $_['text_plus']              = '+';
 $_['text_minus']             = '-';
 $_['text_default']           = 'Default';
 
 // Column
 $_['column_name']            = 'Title';
-$_['column_seller_store']    = 'Seller Store';
+$_['column_seller_store']    = 'Tutor Store';
 $_['column_image']           = 'Image';
 $_['column_status']          = 'Status';
 $_['column_sort_order']          = 'Sort Order';
@@ -32,7 +32,7 @@ $_['entry_author']           = 'Author';
 $_['entry_sort_order']       = 'Sort Order';
 $_['entry_category']         = 'Categories';
 $_['entry_post_tags']         = 'Tags';
-$_['entry_seller_store']      = 'Seller Store';
+$_['entry_seller_store']      = 'Tutor Store';
 
 // Help
 $_['help_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';

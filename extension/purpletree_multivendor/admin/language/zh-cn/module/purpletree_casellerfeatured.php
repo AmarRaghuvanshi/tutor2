@@ -4,7 +4,7 @@ $_['heading_title']    = '多供应商类别卖方特色产品';
 
 // Text
 $_['text_extension']   = '扩展名';
-$_['text_success']     = '成功：您已经修改了Category Seller功能模块！';
+$_['text_success']     = '成功：您已经修改了Category Tutor功能模块！';
 $_['text_edit']        = '编辑类别卖方精选模块';
 
 // Entry

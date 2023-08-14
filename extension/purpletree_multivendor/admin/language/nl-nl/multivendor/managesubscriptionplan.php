@@ -54,7 +54,7 @@ $_['start_now']           = 'NU ()';
 $_['text_list_Seller_Plan_View']     = 'Plan verkoopplan';
 
 //button
-$_['button_assign_new_plan'] = 'Nieuw New Seller Plan toewijzen';
+$_['button_assign_new_plan'] = 'Nieuw New Tutor Plan toewijzen';
 $_['button_update'] ='Bijwerken';
 $_['button_Add_Payment_History']= 'Betalingsgeschiedenis toevoegen';
 $_['button_view_invoicw']= 'Bekijk factuur';

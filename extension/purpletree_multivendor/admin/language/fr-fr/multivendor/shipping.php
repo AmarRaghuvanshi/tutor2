@@ -37,7 +37,7 @@ $_['entry_max_days']            = "Jour maximum";
 
 // Error
 $_['error_warning']             = "Attention: Veuillez vérifier le formulaire attentivement pour les erreurs!";
-$_['error_filter_name']         = "Please select a Seller Name!";
+$_['error_filter_name']         = "Please select a Tutor Name!";
 $_['error_weight']              = "S'il vous plaît sélectionner un nom de vendeur!";
 $_['error_shipping_price']      = "Prix requis!";
 $_['error_zipcode']             = "Code postal requis!";

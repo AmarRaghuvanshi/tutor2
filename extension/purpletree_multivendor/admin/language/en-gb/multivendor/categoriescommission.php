@@ -16,7 +16,7 @@ $_['text_confirm']    = 'Are you sure?';
 $_['column_categories']          = 'Category';
 $_['column_commission']          = 'Commission (%)';
 $_['column_commission_fixed']          = 'Fixed Commission';
-$_['column_seller_group']          = 'Seller Group';
+$_['column_seller_group']          = 'Tutor Group';
 $_['column_action']    = 'Action';
 
 // Entry
@@ -24,7 +24,7 @@ $_['entry_commission']      = 'Commission (%)';
 $_['entry_categories']      = 'Category';
 $_['entry_comment']         = 'Comment';
 $_['entry_commission_fixed']      = 'Fixed Commission';
-$_['entry_seller_group']      = 'Seller Group';
+$_['entry_seller_group']      = 'Tutor Group';
 
 // Error
 $_['error_warning']         = 'Warning: Please check the form carefully for errors!';

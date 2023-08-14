@@ -14,7 +14,7 @@ $_['text_approval']   	=	"<b> Naghihintay para sa pag-apruba ng nagbebenta </ â€
 $_['text_sellerpayment']   	=	"Mga Pagbabayad";
 $_['text_sellerreview']   	=	"Aking Mga Review";
 $_['text_sellerenquiry']   	=	"Mga Katanungan ng Customer";
-$_['text_downloads']   = "Pamahalaan ang Mga Pag-download";
+$_['text_downloads']   = "Pamahalaan ang Mga Pag-Material";
 $_['text_bulkproductupload']     = "Pag-upload ng Bulk na Produkto";
 $_['text_shipping']              = "Mga Rate ng Pagpapadala";
 

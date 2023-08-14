@@ -49,7 +49,7 @@ $_['entry_seller_invoice']        	=	"Invoice / pagpapadala na binuo ng nagbeben
 $_['entry_allow_live_chat'] = 'Permitir Tawk.to Live Chat';
 
 // dash board icons
-$_['entry_seller_dashboard_icon']= "Ipakita ang Mga Icon ng Dashboard / Seller Panel";
+$_['entry_seller_dashboard_icon']= "Ipakita ang Mga Icon ng Dashboard / Tutor Panel";
 
 // Entry		
 $_['entry_status']     	=	"Katayuan";
@@ -113,12 +113,12 @@ $_['entry_seller_product_category'] = 'Walang mga kategorya ang pinapayagan para
 $_['text_multiple']        = 'Maramihang';
 $_['text_single']        = 'Single';
 
-$_['allow_browse_sellers'] ="Paganahin ang Browse Sellers";
+$_['allow_browse_sellers'] ="Paganahin ang Browse Tutors";
 /////////////////
 $_['text_hide_user_menu']        = 'Itago ang User Menu para sa mga nagbebenta';
 $_['heading_development_Option'] = 'Pagpipilian sa Pagpapaunlad';
 $_['enable_include_jquery']        = 'Isama ang jQuery';
-$_['text_hide_seller_product_tab'] = 'Gamitin ang Smart Product Form';//hide seller product tab
+$_['text_hide_seller_product_tab'] = 'Gamitin ang Smart Product Form';//hide tutor product tab
 $_['enable_multiple_active_plan']        = 'Paganahin ang Maramihang Mga Subscription Plan';
 //navbar texts
 $_['text_general'] = "Pangkalahatan";
@@ -163,7 +163,7 @@ $_['text_allow_selleron_category'] = "Ipakita ang mga nagbebenta sa pahina ng ka
 $_['entry_seller_areaheading'] = "Hyperlocal";
 $_['entry_header_popup'] = "Pamagat sa Popup para sa HyperLlocal";
 $_['entry_area_selection'] = "Mandatoryo sa Pagpili ng Lugar";
-$_['entry_seller_area_link'] = "Pumunta sa Seller Area";
+$_['entry_seller_area_link'] = "Pumunta sa Tutor Area";
 $_['text_multiple_store']="Gumamit ng mga tindahan ng matalino sa domain";
 $_['text_fix_commission']="Inayos ang Komisyon";
 $_['text_hyper_delivering'] = "Paghahatid sa";

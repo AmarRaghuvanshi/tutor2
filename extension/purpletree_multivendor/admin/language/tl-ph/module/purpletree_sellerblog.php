@@ -1,10 +1,10 @@
 <?php 
-$_['heading_title']   = 'Multivendor Seller Blog Setting';
+$_['heading_title']   = 'Multivendor Tutor Blog Setting';
 
 // Text
 $_['text_extension']   = 'Mga Extension';
 $_['text_success']     = 'Tagumpay: Binago mo ang module ng setting ng Multivendor blog!';
-$_['text_edit']        = 'I-edit ang Multivendor Seller Blog Setting Module';
+$_['text_edit']        = 'I-edit ang Multivendor Tutor Blog Setting Module';
 
 // Entry
 $_['entry_name']       = 'Pangalan ng Module';

@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 {{ header }}
 <link href="catalog/view/javascript/purpletree/jquery/datetimepicker/bootstrap-datetimepicker.min.css" type="text/css" rel="stylesheet" />
 <link href="'catalog/view/javascript/purpletree/codemirror/lib/codemirror.css" type="text/css" rel="stylesheet" />
@@ -53,12 +54,12 @@
 			    {% endif %}
 					<li id="ptsDataTab" class="nav-item"><a class="nav-link"  href="#tab-data" data-toggle="tab">{{ tab_data }}</a></li>
 					<li id="ptsLinkTab" class="nav-item"><a class="nav-link"  href="#tab-links" data-toggle="tab">{{ tab_links }}</a></li>
-					<li id="ptsAttributeTab" class="nav-item"><a class="nav-link"  href="#tab-attribute" data-toggle="tab">{{ tab_attribute }}</a></li>
-					<li id="ptsOptionTab" class="nav-item"><a  class="nav-link" href="#tab-option" data-toggle="tab">{{ tab_option }}</a></li>
-					<li id="ptsDiscountTab" class="nav-item"><a  class="nav-link" href="#tab-discount" data-toggle="tab">{{ tab_discount }}</a></li>
-					<li id="ptsSpecialTab" class="nav-item"><a  class="nav-link" href="#tab-special" data-toggle="tab">{{ tab_special }}</a></li>
+					<li id="ptsAttributeTab" class="nav-item hide"><a class="nav-link"  href="#tab-attribute" data-toggle="tab">{{ tab_attribute }}</a></li>
+					<li id="ptsOptionTab" class="nav-item hide"><a  class="nav-link" href="#tab-option" data-toggle="tab">{{ tab_option }}</a></li>
+					<li id="ptsDiscountTab" class="nav-item hide"><a  class="nav-link" href="#tab-discount" data-toggle="tab">{{ tab_discount }}</a></li>
+					<li id="ptsSpecialTab" class="nav-item hide"><a  class="nav-link" href="#tab-special" data-toggle="tab">{{ tab_special }}</a></li>
 					<li id="ptsImageTab" class="nav-item"><a class="nav-link"  href="#tab-image" data-toggle="tab">{{ tab_image }}</a></li>
-					<!--<li id="ptsRewardTab" class="nav-item"><a  class="nav-link" href="#tab-reward" data-toggle="tab">{{ tab_reward }}</a></li>-->
+					<li id="ptsRewardTab" class="nav-item hide"><a  class="nav-link" href="#tab-reward" data-toggle="tab">{{ tab_reward }}</a></li>
 					<li id="ptsSEOTab" class="nav-item"><a  class="nav-link" href="#tab-seo" data-toggle="tab">{{ tab_seo }}</a></li>
 					<!-- Quick order -->
 					{% if quick_order_check == 1 %}
@@ -92,30 +93,7 @@
 										<textarea name="product_description[{{ language.language_id }}][description]" placeholder="{{ entry_description }}" id="input-description{{ language.language_id }}" data-toggle="summernote" data-lang="{{ summernote }}" class="pts-form-control summernote">{{ product_description[language.language_id] ? product_description[language.language_id].description }}</textarea>
 									</div>
 								</div>
-								<div class="pts-form-group row">
-									<label class="pts-col-sm-2 col-form-label" for="input-tag{{ language.language_id }}"><span data-toggle="tooltip" title="{{ help_tag }}">{{ entry_tag }}</span></label>
-									<div class="pts-col-sm-10">
-										<input type="text" name="product_description[{{ language.language_id }}][tag]" value="{{ product_description[language.language_id] ? product_description[language.language_id].tag }}" placeholder="{{ entry_tag }}" id="input-tag{{ language.language_id }}" class="pts-form-control" />
-									</div>
-								</div>
-								<div class="pts-form-group row">
-									<label class="pts-col-sm-2 col-form-label" for="input-meta-title{{ language.language_id }}">{{ entry_meta_title }}</label>
-									<div class="pts-col-sm-10">
-										<input type="text" name="product_description[{{ language.language_id }}][meta_title]" value="{{ product_description[language.language_id] ? product_description[language.language_id].meta_title }}" placeholder="{{ entry_meta_title }}" id="input-meta-title{{ language.language_id }}" class="pts-form-control" />
-									</div>
-								</div>
-								<div class="pts-form-group row">
-									<label class="pts-col-sm-2 col-form-label" for="input-meta-description{{ language.language_id }}">{{ entry_meta_description }}</label>
-									<div class="pts-col-sm-10">
-										<textarea name="product_description[{{ language.language_id }}][meta_description]" rows="5" placeholder="{{ entry_meta_description }}" id="input-meta-description{{ language.language_id }}" class="pts-form-control">{{ product_description[language.language_id] ? product_description[language.language_id].meta_description }}</textarea>
-									</div>
-								</div>
-								<div class="pts-form-group row">
-									<label class="pts-col-sm-2 col-form-label" for="input-meta-keyword{{ language.language_id }}">{{ entry_meta_keyword }}</label>
-									<div class="pts-col-sm-10">
-										<textarea name="product_description[{{ language.language_id }}][meta_keyword]" rows="5" placeholder="{{ entry_meta_keyword }}" id="input-meta-keyword{{ language.language_id }}" class="pts-form-control">{{ product_description[language.language_id] ? product_description[language.language_id].meta_keyword }}</textarea>
-									</div>
-								</div>
+								
 								
 							</div>
 						{% endfor %}</div>
@@ -237,37 +215,37 @@
 						{% endif %}
 						
 						<!-- /Metals type-->
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-sku"><span data-toggle="tooltip" title="{{ help_sku }}">{{ entry_sku }}</span></label>
 							<div class="pts-col-sm-10">
 								<input type="text" name="sku" value="{{ sku }}" placeholder="{{ entry_sku }}" id="input-sku" class="pts-form-control" />
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-upc"><span data-toggle="tooltip" title="{{ help_upc }}">{{ entry_upc }}</span></label>
 							<div class="pts-col-sm-10">
 								<input type="text" name="upc" value="{{ upc }}" placeholder="{{ entry_upc }}" id="input-upc" class="pts-form-control" />
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-ean"><span data-toggle="tooltip" title="{{ help_ean }}">{{ entry_ean }}</span></label>
 							<div class="pts-col-sm-10">
 								<input type="text" name="ean" value="{{ ean }}" placeholder="{{ entry_ean }}" id="input-ean" class="pts-form-control" />
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-jan"><span data-toggle="tooltip" title="{{ help_jan }}">{{ entry_jan }}</span></label>
 							<div class="pts-col-sm-10">
 								<input type="text" name="jan" value="{{ jan }}" placeholder="{{ entry_jan }}" id="input-jan" class="pts-form-control" />
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-isbn"><span data-toggle="tooltip" title="{{ help_isbn }}">{{ entry_isbn }}</span></label>
 							<div class="pts-col-sm-10">
 								<input type="text" name="isbn" value="{{ isbn }}" placeholder="{{ entry_isbn }}" id="input-isbn" class="pts-form-control" />
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-mpn"><span data-toggle="tooltip" title="{{ help_mpn }}">{{ entry_mpn }}</span></label>
 							<div class="pts-col-sm-10">
 								<input type="text" name="mpn" value="{{ mpn }}" placeholder="{{ entry_mpn }}" id="input-mpn" class="pts-form-control" />
@@ -282,7 +260,7 @@
 							</div>
 						</div>
 						{% else %}
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-location">{{ entry_location }}</label>
 							<div class="pts-col-sm-10">
 								<input type="text" name="location" value="{{ location }}" placeholder="{{ entry_location }}" id="input-location" class="pts-form-control" />
@@ -383,7 +361,7 @@
 							</div>
 						</div>
 						{% endif %}
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-tax-class">{{ entry_tax_class }}</label>
 							<div class="pts-col-sm-10">
 								<select name="tax_class_id" id="input-tax-class" class="pts-form-control">
@@ -410,19 +388,19 @@
 								</select>
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-pts-quantity">{{ entry_quantity }}</label>
 							<div class="pts-col-sm-10">
 								<input type="text" name="quantity" value="{{ quantity }}" placeholder="{{ entry_quantity }}" id="input-pts-quantity" class="pts-form-control" />
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-minimum"><span data-toggle="tooltip" title="{{ help_minimum }}">{{ entry_minimum }}</span></label>
 							<div class="pts-col-sm-10">
 								<input type="text" name="minimum" value="{{ minimum }}" placeholder="{{ entry_minimum }}" id="input-minimum" class="pts-form-control" />
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-subtract">{{ entry_subtract }}</label>
 							<div class="pts-col-sm-10">
 								<select name="subtract" id="input-subtract" class="pts-form-control">
@@ -448,7 +426,7 @@
 								</select>
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-stock-status"><span data-toggle="tooltip" title="{{ help_stock_status }}">{{ entry_stock_status }}</span></label>
 							<div class="pts-col-sm-10">
 								<select name="stock_status_id" id="input-stock-status" class="pts-form-control">
@@ -474,7 +452,7 @@
 								</select>
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label">{{ entry_shipping }}</label>
 							<div class="pts-col-sm-10 ptsradioinp">
 								<label class="radio-inline"> {% if shipping %}
@@ -494,14 +472,14 @@
 							</div>
 						</div>
 						 <!--Pts shipping-->
-						 <div class="pts-form-group">
+						 <div class="pts-form-group hide">
 						<label class="pts-col-sm-2 col-form-label" for="input-pts_shipping_charge">{{ text_shipping_charge }}</label>
 						<div class="pts-col-sm-10">
 						  <input type="text" name="pts_shipping_charge" value="{{ pts_shipping_charge }}" placeholder="{{ text_shipping_charge }}" id="input-pts_shipping_charge" class="pts-form-control"/>
 						</div>
 					  </div>
 					  <!--End Pts shipping-->
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-date-available">{{ entry_date_available }}</label>
 							<div class="pts-col-sm-3">
 								<div class="pts-input-group date d-flex ptsc-commison-display">
@@ -511,7 +489,7 @@
 									</span></div>
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-length">{{ entry_dimension }}</label>
 							<div class="pts-col-sm-10">
 								<div class="pts-row d-flex">
@@ -527,7 +505,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-length-class">{{ entry_length_class }}</label>
 							<div class="pts-col-sm-10">
 								<select name="length_class_id" id="input-length-class" class="pts-form-control">
@@ -553,7 +531,7 @@
 								</select>
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-weight">{{ entry_weight }}</label>
 							<div class="pts-col-sm-10">
 								<input type="text" name="weight" value="{{ weight }}" placeholder="{{ entry_weight }}" id="input-weight" class="pts-form-control" />
@@ -562,7 +540,7 @@
 								{% endif %}
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-weight-class">{{ entry_weight_class }}</label>
 							<div class="pts-col-sm-10">
 								<select name="weight_class_id" id="input-weight-class" class="pts-form-control">
@@ -614,7 +592,7 @@
 								</select>
 							</div>
 						</div>
-						<div class="pts-form-group row">
+						<div class="pts-form-group row hide">
 							<label class="pts-col-sm-2 col-form-label" for="input-sort-order">{{ entry_sort_order }}</label>
 							<div class="pts-col-sm-10">
 								<input type="text" name="sort_order" value="{{ sort_order }}" placeholder="{{ entry_sort_order }}" id="input-sort-order" class="pts-form-control" />
@@ -1313,8 +1291,32 @@
 								</tr>
 								{% endfor %}
 							</tbody>
-							
 						</table>
+							<div class="pts-form-group row">
+									<label class="pts-col-sm-2 col-form-label" for="input-tag{{ language.language_id }}"><span data-toggle="tooltip" title="{{ help_tag }}">{{ entry_tag }}</span></label>
+									<div class="pts-col-sm-10">
+										<input type="text" name="product_description[{{ language.language_id }}][tag]" value="{{ product_description[language.language_id] ? product_description[language.language_id].tag }}" placeholder="{{ entry_tag }}" id="input-tag{{ language.language_id }}" class="pts-form-control" />
+									</div>
+								</div>
+								<div class="pts-form-group row">
+									<label class="pts-col-sm-2 col-form-label" for="input-meta-title{{ language.language_id }}">{{ entry_meta_title }}</label>
+									<div class="pts-col-sm-10">
+										<input type="text" name="product_description[{{ language.language_id }}][meta_title]" value="{{ product_description[language.language_id] ? product_description[language.language_id].meta_title }}" placeholder="{{ entry_meta_title }}" id="input-meta-title{{ language.language_id }}" class="pts-form-control" />
+									</div>
+								</div>
+								<div class="pts-form-group row">
+									<label class="pts-col-sm-2 col-form-label" for="input-meta-description{{ language.language_id }}">{{ entry_meta_description }}</label>
+									<div class="pts-col-sm-10">
+										<textarea name="product_description[{{ language.language_id }}][meta_description]" rows="5" placeholder="{{ entry_meta_description }}" id="input-meta-description{{ language.language_id }}" class="pts-form-control">{{ product_description[language.language_id] ? product_description[language.language_id].meta_description }}</textarea>
+									</div>
+								</div>
+								<div class="pts-form-group row">
+									<label class="pts-col-sm-2 col-form-label" for="input-meta-keyword{{ language.language_id }}">{{ entry_meta_keyword }}</label>
+									<div class="pts-col-sm-10">
+										<textarea name="product_description[{{ language.language_id }}][meta_keyword]" rows="5" placeholder="{{ entry_meta_keyword }}" id="input-meta-keyword{{ language.language_id }}" class="pts-form-control">{{ product_description[language.language_id] ? product_description[language.language_id].meta_keyword }}</textarea>
+									</div>
+								</div>
+							
 					</div>
 				</div>
 				<!-- Quick order -->

@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']          = 'Seller E-mails Template';
+$_['heading_title']          = 'Tutor E-mails Template';
 
 // Text
-$_['text_success']           = 'Success: You have modified seller E-mails!';
-$_['text_list']              = 'Seller E-mails List';
-$_['text_edit']              = 'Edit Seller E-mails';
+$_['text_success']           = 'Success: You have modified tutor E-mails!';
+$_['text_list']              = 'Tutor E-mails List';
+$_['text_edit']              = 'Edit Tutor E-mails';
 $_['text_default']           = 'Default';
 $_['text_available_variables']           = 'Available variables : ';
 

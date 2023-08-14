@@ -1,10 +1,10 @@
 <?php 
-$_['heading_title']   = 'Configuração do Blog Multivendor Seller';
+$_['heading_title']   = 'Configuração do Blog Multivendor Tutor';
 
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Sucesso: Você modificou o módulo de configuração do blog Multivendor!';
-$_['text_edit']        = 'Editar Módulo de Configuração de Blog do Multivendor Seller';
+$_['text_edit']        = 'Editar Módulo de Configuração de Blog do Multivendor Tutor';
 
 // Entry
 $_['entry_name']       = 'nome do módulo';

@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']    = 'Multivendor Seller Featured Products';
+$_['heading_title']    = 'Multivendor Tutor Featured Products';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Seller featured module!';
-$_['text_edit']        = 'Edit Seller Featured Module';
+$_['text_success']     = 'Success: You have modified Tutor featured module!';
+$_['text_edit']        = 'Edit Tutor Featured Module';
 
 // Entry
 $_['entry_status']     = 'Status';

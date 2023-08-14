@@ -14,7 +14,7 @@ $_['text_approval']   = '<b>In attesa approvazione del venditore</b>';
 $_['text_sellerpayment']   = 'Pagamenti';
 $_['text_sellerreview']   = 'Le mie Recensioni';
 $_['text_sellerenquiry']   = 'Richieste Clienti';
-$_['text_downloads']   = "Gestisci i download";
+$_['text_downloads']   = "Gestisci i Material";
 $_['text_bulkproductupload']     = "Caricamento di prodotti collettivi";
 $_['text_shipping']              = "ariffe di spedizione";
 

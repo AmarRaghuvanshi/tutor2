@@ -14,7 +14,7 @@ $_['column_name']        = 'Geo Zone Name';
 $_['column_name1']        = 'Geo Zone Name';
 $_['column_description'] = 'Description';
 $_['column_action']      = 'Action';
-$_['column_seller']      = 'Seller Store Name';
+$_['column_seller']      = 'Tutor Store Name';
 $_['column_price']       = 'Price';
 
 // Entry
@@ -32,7 +32,7 @@ $_['error_weight_to_numeric']  = 'Weight must be in number!';
 
 $_['entry_country']      = 'Country';
 $_['entry_zone']         = 'Zone';
-$_['seller_name']         = 'Seller Store Name';
+$_['seller_name']         = 'Tutor Store Name';
 $_['text_select_country'] = 'Select country';
 // Error
 $_['error_permission']   = 'Warning: You do not have permission to modify geo zones!';
